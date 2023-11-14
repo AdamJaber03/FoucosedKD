@@ -1,0 +1,12 @@
+Age: The individual's age, which can be indicative of life stage and financial stability.
+Payment History: The record of on-time vs. late payments, which is a key factor in credit scoring models.
+Credit Utilization Ratio: The ratio of credit card balances to credit limits.
+Length of Credit History: The length of time credit accounts have been open.
+Types of Credit: A categorical variable indicating the mix of credit accounts (e.g., credit cards, mortgages, loans).
+Debt-to-Income Ratio: The ratio of the individual's total recurring monthly debt to their gross monthly income.
+Income: The total annual income of the individual, a direct measure of earning power.
+Employment Status: A categorical variable indicating employment status.
+Housing Status: A categorical variable indicating whether they rent or own a house.
+Education Level: A categorical variable indicating the individual's education level.
+Bankruptcy or Defaults: Whether the individual has had any bankruptcies or defaults, which are serious negative financial events.
+Recent Credit Inquiries: The number of recent requests for credit, as frequent inquiries can signal financial distress.

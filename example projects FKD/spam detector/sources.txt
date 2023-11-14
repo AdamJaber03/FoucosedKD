@@ -1,0 +1,2 @@
+data/real_data: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset/
+Spam_Detection.ipynb: https://colab.research.google.com/github/ElizaLo/ML-using-Jupiter-Notebook-and-Google-Colab/blob/master/Spam%20Detection/Spam_Detection.ipynb
